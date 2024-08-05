@@ -131,7 +131,8 @@
                     <archive>
                         <manifest>
                             <!-- change here to change the mainClass -->
-                            <mainClass>com.jmb.DataGrouping</mainClass>
+                            <mainClass>com.jmb.Joins</mainClass>
+<!--                            <mainClass>com.jmb.DataGrouping</mainClass>-->
 <!--                            <mainClass>com.jmb.DataPartitioning</mainClass>-->
 <!--                            <mainClass>com.jmb.BasicActionsPartTwo</mainClass>-->
 <!--                            <mainClass>com.jmb.BasicTransformationsPartTwo</mainClass>-->
